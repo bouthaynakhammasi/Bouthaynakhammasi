@@ -6,7 +6,7 @@
 </a>
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Bouthaynakhammasi/Bouthaynakhammasi/main/dist/github-jet.svg?v=1"
+    src="https://raw.githubusercontent.com/Bouthaynakhammasi/Bouthaynakhammasi/main/preview-sample.svg?v=1"
     alt="GitHub Jet Heatmap"
     width="100%"
   />
